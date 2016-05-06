@@ -1,0 +1,14 @@
+{
+  "name": "drawPieChart",
+  "homepage": "https://github.com/githiro/drawPieChart",
+  "_release": "09c17637dc",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "09c17637dc51a1a64eb18fa4ee02ec3ddf981331"
+  },
+  "_source": "git://github.com/githiro/drawPieChart.git",
+  "_target": "*",
+  "_originalSource": "githiro/drawPieChart",
+  "_direct": true
+}
